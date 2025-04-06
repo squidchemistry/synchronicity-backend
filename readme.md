@@ -83,7 +83,7 @@ We welcome contributions! To contribute:
 - Secure **API key storage** (Environment Variables)
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **Apache 2.0 License**.
 
 ## 💬 Connect with Us
 Follow us on Twitter: [arshverma_off](https://x.com/arshverma_off)
