@@ -86,8 +86,8 @@ We welcome contributions! To contribute:
 This project is licensed under the **MIT License**.
 
 ## 💬 Connect with Us
-Follow us on Twitter: [@yourhandle](https://twitter.com/yourhandle)
-Join our Discord: [Discord Link](https://discord.com/invite/yourserver)
+Follow us on Twitter: [arshverma_off](https://x.com/arshverma_off)
+Join our Discord: [Discord Link](https://discord.gg/Qvuy6VJu)
 
 ---
 ⭐ **Star this repo** if you find it useful!
